@@ -1,0 +1,20 @@
+## a24ub-user 15 AP3A.240905.015.A2 A245MUBSADYG1 release-keys
+- Manufacturer: samsung
+- Platform: mt6789
+- Codename: a24
+- Brand: samsung
+- Flavor: a24ub-user
+- Release Version: 15
+- Kernel Version: 5.10.226
+- Id: AP3A.240905.015.A2
+- Incremental: A245MUBSADYG1
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: en-GB
+- Screen Density: undefined
+- Fingerprint: samsung/a24ub/a24:12/SP1A.210812.016/A245MUBSADYG1:user/release-keys
+- OTA version: 
+- Branch: a24ub-user-15-AP3A.240905.015.A2-A245MUBSADYG1-release-keys
+- Repo: samsung_a24_dump
